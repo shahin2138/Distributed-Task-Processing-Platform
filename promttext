@@ -1,0 +1,29 @@
+![alt text](image-0.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+
+
+
+i want to create project on this topic( Distributed Task Processing Platform (Mini AWS EventBridge + Queue System) ) please make small project withh all frontend backend and 1 file in which all sql query for crud or anything should be there !! use your choice of frint-end and backend for this project !
+
+
+cd server
+npm start
+
+
+cd client
+npm run dev
+
+
+Backend URL: http://localhost:5000
+WebSocket Telemetry: ws://localhost:5000
+
+Frontend URL: http://localhost:5173
+
+
+sqlite3 server/task_platform.db < database.sql
